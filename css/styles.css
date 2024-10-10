@@ -19,3 +19,14 @@ ul.list-group a:hover {
     max-width: 800px;
     margin: auto;
 }
+
+.underprogress {
+    width: auto;                  
+    font-size: 6rem;              
+    border: 1px black solid;     
+    height: max-content;          
+    padding: 20px;                
+    margin: 20px auto;            
+    text-align: center;           
+    background-color: #f8f9fa;    
+}
