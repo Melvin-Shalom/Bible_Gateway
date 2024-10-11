@@ -2,16 +2,41 @@ body {
     font-family: Arial, sans-serif;
 }
 
-h1, h2 {
+h1,
+h2 {
     color: #333;
 }
 
 ul.list-group a {
     text-decoration: none;
-    color: #007bff;
 }
 
 ul.list-group a:hover {
+    text-decoration: none;
+    color: #0056b3;
+}
+
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: background-color 0.3s ease;
+}
+
+.list-group-item:hover {
+    background-color: #f0f0f0; /* Change this color as needed */
+}
+
+.list-group-item a {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    text-decoration: none;
+    color: inherit;
+}
+
+.list-group-item a:hover {
     color: #0056b3;
 }
 
@@ -21,12 +46,17 @@ ul.list-group a:hover {
 }
 
 .underprogress {
-    width: auto;                  
-    font-size: 6rem;              
-    border: 1px black solid;     
-    height: max-content;          
-    padding: 20px;                
-    margin: 20px auto;            
-    text-align: center;           
-    background-color: #f8f9fa;    
+    width: auto;
+    font-size: 6rem;
+    border: 1px black solid;
+    height: max-content;
+    padding: 20px;
+    margin: 20px auto;
+    text-align: center;
+    background-color: #f8f9fa;
+}
+
+body {
+    background-color: var(--pico-background-color);
+    color: var(--pico-color);
 }
