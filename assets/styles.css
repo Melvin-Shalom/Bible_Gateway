@@ -40,23 +40,26 @@ ul.list-group a:hover {
     color: #0056b3;
 }
 
+.button-container {
+    display: flex; /* Use flexbox to align items in a row */
+    justify-content: center; /* Center items horizontally */
+    flex-wrap: nowrap; /* Prevent wrapping of buttons */
+    overflow-x: auto; /* Allow horizontal scrolling if necessary */
+    margin: 1rem 0; /* Vertical margin for spacing */
+}
+
+.button-container .btn {
+    margin: 0 0.5rem; /* Horizontal margin between buttons */
+}
+
+/* Optional: Additional styling for buttons on mobile */
+@media (max-width: 576px) {
+    .button-container .btn {
+        flex: 1; /* Make buttons equal width on small screens */
+    }
+}
+
 .container {
-    max-width: 800px;
+    max-width: 750px !important;
     margin: auto;
-}
-
-.underprogress {
-    width: auto;
-    font-size: 6rem;
-    border: 1px black solid;
-    height: max-content;
-    padding: 20px;
-    margin: 20px auto;
-    text-align: center;
-    background-color: #f8f9fa;
-}
-
-body {
-    background-color: var(--pico-background-color);
-    color: var(--pico-color);
 }
