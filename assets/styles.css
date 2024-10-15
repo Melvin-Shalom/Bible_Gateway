@@ -24,7 +24,7 @@ ul.list-group a:hover {
 }
 
 .list-group-item:hover {
-    background-color: #f0f0f0; /* Change this color as needed */
+    background-color: #f0f0f0;
 }
 
 .list-group-item a {
@@ -41,21 +41,20 @@ ul.list-group a:hover {
 }
 
 .button-container {
-    display: flex; /* Use flexbox to align items in a row */
-    justify-content: center; /* Center items horizontally */
-    flex-wrap: nowrap; /* Prevent wrapping of buttons */
-    overflow-x: auto; /* Allow horizontal scrolling if necessary */
-    margin: 1rem 0; /* Vertical margin for spacing */
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    margin: 1rem 0;
 }
 
 .button-container .btn {
-    margin: 0 0.5rem; /* Horizontal margin between buttons */
+    margin: 0 0.5rem;
 }
 
-/* Optional: Additional styling for buttons on mobile */
 @media (max-width: 576px) {
     .button-container .btn {
-        flex: 1; /* Make buttons equal width on small screens */
+        flex: 1;
     }
 }
 
