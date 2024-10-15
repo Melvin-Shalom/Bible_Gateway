@@ -10,7 +10,10 @@ Note: This project is currently under development; only a limited amount of Chap
 
 ## Currently Avaiable Chapters
 
+### Old Testament
 31. Obadiah
+    
+### New Testament
 57. Philemon
 58. Hebrews
 62. 1 John
