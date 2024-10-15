@@ -10,11 +10,13 @@ Note: This project is currently under development; only a limited amount of Chap
 
 ## Currently Avaiable Chapters
 
-- **Hebrews** : 13 chapters
-- **1 John** : 5 chapters
-- **2 John** : 1 chapter
-- **3 John** : 1 chapter
-- **Jude** : 1 chapter
+31. **Obadiah** : 1 chapter
+57. **Philemon** : 1 chapter
+58. **Hebrews** : 13 chapters
+62. **1 John** : 5 chapters
+63. **2 John** : 1 chapter
+64. **3 John** : 1 chapter
+65. **Jude** : 1 chapter
 
 ## Components Used in the Project
 
