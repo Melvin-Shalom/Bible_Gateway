@@ -14,8 +14,12 @@ Note: This project is currently under development; only a limited amount of Chap
 31. Obadiah
     
 ### New Testament
+56. Titus
 57. Philemon
 58. Hebrews
+59. James
+60. 1 Peter
+61. 2 Peter
 62. 1 John
 63. 2 John
 64. 3 John
