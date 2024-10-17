@@ -2,7 +2,7 @@
 
 ## Description
 
-This project presents a structured online Bible platform that allows users to navigate through the scriptures easily. It features a user-friendly interface to access both the Old and New Testaments, providing links to each book and chapter.
+This project presents a structured online Bible platform that allows users to navigate through the scriptures easily. The text are based on the NIV Translation of The Holy Bible. It features a user-friendly interface to access both the Old and New Testaments, providing links to each book and chapter.
 
 To explore the Bible interactively, [visit here](https://melvin-shalom.github.io/Covenant_Bible/).
 
@@ -14,6 +14,14 @@ Note: This project is currently under development; only a limited amount of Chap
 31. Obadiah
     
 ### New Testament
+48. Galatians
+49. Ephesians
+50. Philippians
+51. Colossians
+52. 1 Thessalonians
+53. 2 Thessalonians
+54. 1 Timothy
+55. 2 Timothy
 56. Titus
 57. Philemon
 58. Hebrews
@@ -24,6 +32,7 @@ Note: This project is currently under development; only a limited amount of Chap
 63. 2 John
 64. 3 John
 65. Jude
+66. Revelations
 
 ## Components Used in the Project
 
@@ -33,8 +42,6 @@ The **Covenant Bible** project utilizes the following components:
 2. CSS
 3. JavaScript
 4. Bootstrap
-5. Folder Structure
-6. Link Navigation
 
 ## Features
 
