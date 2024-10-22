@@ -11,7 +11,7 @@ Note: This project is currently under development; only a limited amount of Chap
 ## Currently Avaiable Chapters
 
 ### Old Testament
-19. Psalms (Upto Chapter 50)
+19. Psalms
 31. Obadiah
     
 ### New Testament
