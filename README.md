@@ -1,3 +1,5 @@
+Note: There will be a significant hiatus for a while.
+
 # Convenant Bible
 
 ## Description
